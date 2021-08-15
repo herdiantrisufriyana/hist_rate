@@ -39,7 +39,7 @@ available in hist_rate.Rmd.
 
 To reproduce our work, a set of hardware requirements may be needed. We used a 
 single machine. It was equipped by 8 logical processors for the 3.40 GHz 
-central processing unit (CPU) (Core i7-4770, Intel®, Santa Clara, CA, USA), 
+central processing unit (CPU) (Core(TM) i7-4770, Intel®, Santa Clara, CA, USA), 
 and 16 GB RAM. But, one can use a machine with only 4 logical processors and 
 4 GB RAM, if the sample size is smaller than that of dataset we used in this 
 protocol.
