@@ -40,8 +40,8 @@ main text, which are respectively Introduction, Software and equipment, and
 Procedure. Along with this PDF document, we also provide R Markdown (.Rmd) 
 containing the same texts with this document but including the programming 
 codes for the data analysis in-between of these texts. The R Markdown are 
-available in https://github.com/herdiantrisufriyana/shl. To get raw data, one 
-need to request an access from the BPJS Kesehatan for their sample dataset 
+available in https://github.com/herdiantrisufriyana/hist_rate. To get raw data, 
+one need to request an access from the BPJS Kesehatan for their sample dataset 
 published in August 2019. Up to this date, there are three sample datasets they 
 published in February 2019, August 2019, and December 2020. For the first and 
 second versions, a request is applied via https://e-ppid.bpjs-kesehatan.go.id/, 
