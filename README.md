@@ -59,7 +59,7 @@ set a variable that defines whether the expensive parts will be conducted. This
 may take from 3 to 19 hours to be completed.
 
 We also provide a small dataset to demo the package we made for this protocol. 
-Please follow through the vignette. This shows simple examples to demo the 
+Please follow through the vignette. This shows a simple example to demo the 
 package.
 
 
