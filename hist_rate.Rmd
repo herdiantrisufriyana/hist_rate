@@ -53,7 +53,7 @@ https://github.com/herdiantrisufriyana/medhist/tree/main/preprocessing.
 # Software and equipment
 
 We set up a programming environment for this study. Bioconductor was utilized 
-as described in the main text. There were 198 R packages which are 8 base 
+as described in the main text. There were 136 R packages which are 8 base 
 packages, 34 other packages, and 121 dependencies.
 
 ```{r Set up reproducible environment, include=FALSE}
